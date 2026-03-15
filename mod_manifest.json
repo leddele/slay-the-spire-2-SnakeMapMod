@@ -1,0 +1,10 @@
+{
+  "id": "SnakeMapMod",
+  "name": "蛇形地图",
+  "author": "leddele",
+  "version": "1.0.0",
+  "entry_point": "SnakeMapMod.MainFile",
+    "dll_name": "SnakeMapMod.dll",
+      "pck_name": "SnakeMapMod",
+  "description": "让杀戮尖塔2的地图变长一倍（30层），并按比例增加精英怪和休息点的分布。"
+}
